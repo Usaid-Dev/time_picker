@@ -1,16 +1,10 @@
-# time_picker
+# Time_Picker
 
-A new Flutter project.
+Embark on a journey to integrate a time picker into your Flutter app with this comprehensive tutorial, divided into two parts:
 
-## Getting Started
+Adding a Time Picker :- https://www.instagram.com/reel/C4dO9TfNVai/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==
 
-This project is a starting point for a Flutter application.
+Displaying Time :- https://www.instagram.com/reel/C4fsKx0NZ3C/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## By following these steps, 
+Developers can effortlessly incorporate time selection functionality into your Flutter app, enhancing user experience and app usability. For detailed guidance, watch the full tutorial on my Instagram account, where I provide step-by-step instructions and valuable insights throughout the process.
